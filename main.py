@@ -20,6 +20,8 @@ import time
 
 ctypes.windll.kernel32.SetConsoleTitleW("Axi Panel || STATUS: Online ")
 
+# colortype
+
 y = Fore.LIGHTYELLOW_EX
 b = Fore.LIGHTBLUE_EX
 w = Fore.LIGHTWHITE_EX

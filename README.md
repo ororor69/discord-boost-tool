@@ -15,17 +15,12 @@ Fast Token Checker
 
 # How to use
 
-WILL NOT WORK WITHOUT Capmonster API KEY
-
-WILL NOT WORK WITHOUT BALANCE ON CAPMONSTER
-
-put your token(s) in tokens.txt
-
-put your [CapMonster](https://capmonster.cloud) key in settings.json.
-
-```json
-    "Capmonster_apikey": "Put your capmonster api key here!"
-```
+1. Install python
+2. Download the repository/project as a ZIP file
+3. Extract the ZIP file in your file exporer
+4. Go in the extracted folder and put your token(s) in tokens.txt
+5. Open start.bat
+6. Enter a server that you want the tokens to boost!
 
 # DISCLAIMER
 

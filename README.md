@@ -21,6 +21,6 @@ Fast Token Checker
 5. Open start.bat
 6. Enter a server that you want the tokens to boost!
 
-# DISCLAIMER
+# DISCLAIMER 
 
 ## This github repo is for EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS REPO.

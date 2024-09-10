@@ -1,7 +1,7 @@
 # Discord-Boost-Tool! 
 
 
-# Features
+# Features 
 
 
 Boost a server

@@ -12,7 +12,7 @@ Info On Token
  
 Fast Token Checker
  
-# How to use
+# How to use 
 
 1. Install python 
 2. Download the repository/project as a ZIP file  

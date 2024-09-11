@@ -8,7 +8,7 @@ Boost a server
 
 Edit your stock   
  
-Info On Token 
+Info On Token  
  
 Fast Token Checker
  
